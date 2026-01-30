@@ -1,0 +1,67 @@
+End-to-End Business Process framework:
+- Recruit to Retire (HR)
+- Lead to Cash (Sales)
+- Source to Pay (SCM, Product Management, Finance)
+- Design to Operate (Manufacturing, SCM, Product Management)
+
+E2E Business Process
+- Represent the complete journey of a business function
+	(external note: this resembles the LCTSI order-tracking work you've done before)
+- Eliminates data silos
+- Boosts operational efficiency with automation, allows for real-time insights, better service delivery, optimizes workflows
+
+SAP can deal with:
+- Industry-specific value change
+- Differing strategies and trends
+
+"SAP collaborates with Resellers, System Integrators (SIs), Independent Software Vendors (ISVs), and Technology Alliances"
+
+SAP Business Process Framework:
+- Cloud technologies for scalability
+- Automation for repetitive tasks
+- Enterprise application suite for a unified system & seamless data flow
+
+Other suite qualities
+- Consistent identity & security management
+- One workflow inbox
+- Aligned domain models & integration content
+- Embedded & cross-product analytics
+
+## Recruit to Retire
+- There are many factors in a company's workforce: hiring process, training, performance evaluation, salaries, health and welfare, etc.
+- SAP aims to cover the full employee life-cycle; hence, "Recruit to Retire"
+## Lead to Cash
+- Order fulfillment
+- After-sales services
+- Accounts receivable management
+- Payment collection
+- Can be customized based on industry requirements, customer types, sales channels
+## Source to Pay
+- SAP uses analytics and ML to determine the best suppliers (materials or services)
+- S/4HANA Cloud, SAP Ariba, SAP Fieldglass, SAP Concur, SAP Business Network
+## Design to Operate
+- Since SAP is end-to-end, it manages the full product life-cycle
+	- From initial design, planning, manufacturing o delivery *& on-going operations
+
+
+Recruit to Retire - HR
+Lead to Cash - Sales / CX (Customer Experience)
+Source to Pay - Spend Management / Procurement
+Design to Operate - SCM
+
+Integration -> Unified, intelligent ecosystem, collaboration, real-time visibility, consistent
+Intelligent - Predictive analytics, automation, AI, ML
+Modular & scalable - customized processes, future-proof, scale operaitonoperations
+
+basically just a bunch of corpo-speak but the gist is:
+- SAP has four different segments that connect to one another in a single E2E business process
+- This allows for a streamlined single domain
+- Each domain is real-time and supported by automation and data analytics, allowing for the following aspects:
+	- Optimization: things are faster and decisions can be made and seen more easily instead of staring at hundreds of sources of data
+
+SAP Business Suite
+- Strategic Industry Priorities
+- SAP Intelligent Clinical Spply Management
+
+SAP Solution Scout - Exploration of SAP & partner solutions
+SAP Roadmap Explorer - Future product roadmap

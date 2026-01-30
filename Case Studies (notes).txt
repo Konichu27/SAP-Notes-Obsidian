@@ -1,0 +1,45 @@
+
+Example:
+- A unified HR payroll system goes under SAP SuccessFactors
+- Sales reports are now available earlier in the day
+- Sales, HR, operations insights are available on any device
+- Plans used are, for example, the SAP Preferred Success plan
+
+Example: LGMG
+- Problems include an outdated e-commerce system, multilingual and multicurrency support, and redundancy in data
+- SAP Commerce Cloud and SAP S/4HANA Cloud Private Edition allowed for the following:
+	- Integration between the two systems
+	- Faster, streamlined order management
+	- Customization & configurability
+	- Automation, intelligent documentation, resulting in improvement in aftersales services
+	- Unified master data hierarchy with accounting categories, models, rules
+	- SAP Services and Support provided a "professional, technical team"; i.e. a personalized team
+Example: Vileda
+- Migrating from SAP Customer Relationship Management to cloud services allowed for a ticket system
+- "Perfect Store" - allowed teams to be assigned to check the status of products in stores
+- SAP Sales Cloud allows for quotes sent directly to business customers, instead of Excel spreadsheets
+- SAP Customer Cloud recorded customers in online shops, and integration with SAP ERP allowed for faster order processing and transfer of inventory and order information
+- SAP Service Cloud allows for social media integration
+Example: Brussels Airport (yes they do airports too)
+- They wanted to replace their outdated ERP system, which was too customized to the point of inflexibility
+- SAP S/4HANA Cloud Public Edition allowed for the following:
+	- SAP Ariba - procure-to-pay processes
+	- SAP Concur - expense management
+	- SAP SuccessFactors - HR
+	- SAP Analytics Cloud - reporting & planning
+	- SAP Integration Suite - cloud integration
+	- SAP Enable Now - e-learning, training
+- User-friendliness allowed for easy purchase requisitions & orders on any device
+- System is standardized toward all users
+- Integration allows for automation of expense logs or purchase order approvals
+
+Example: Blue Diamond Growers
+- Before, the company operated in a variety of manual processes and documents that were time-intensive and error-prone (from scenario planning to logistics to obtaining order status)
+	- US$300 million annually in SCM
+- COVID-19 worsened things by extending logistics time
+- The following were implemented:
+	- SAP Signavio (business process analysis)
+	- SAP Transport Management
+	- SAP Business Network for Logistics
+- The company plans to summarize thousands of delivery notes with genAI
+

@@ -1,0 +1,53 @@
+SAP Partner Network
+- 80% of new customers are acquired through partners
+
+Pillars:
+
+Applications
+- Cloud ERP, Line of Business (LoB) solutions
+
+Data
+- SAP Business Data Cloud
+- 3rd-party Insights Apps on top of BDC
+- Connecting SAP with non-SAP resources
+
+Business AI
+- Building new AI solutions and extensions
+
+GROW with SAP
+- for net-new SAP customers
+- preconfigured, pre-integrated solutions
+RISE with SAP
+- for current, on-premise SAP ERP customers
+- transitioning from ECC (Enterprise Central Component) to the cloud
+
+Ecosystem:
+
+Discover & Select -> Adopt & Derive -> Extend
+
+SAP PartnerEdge Program
+
+KEYWORDS:
+
+GSSP - Global Strategic Service Partner
+T2V - Time-to-value -> How much less time can we waste?
+
+
+-----------------------------------------------
+
+KEY ENABLERS IN 2025
+To empower the ecosystem for shared success
+
+FOUNDATIONAL ENABLERS
+
+Resellers
+Companies that sell SAP products to customers.
+
+System Integrators & Services
+Companies that implement SAP systems and provide consulting.
+
+Independent Software Vendors (ISVs)
+Companies that build additional software that integrates with SAP.
+
+Technology Alliances
+Technology companies that integrate their systems with SAP.
