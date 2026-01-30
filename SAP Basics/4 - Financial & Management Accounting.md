@@ -1,0 +1,30 @@
+**Core finance**
+- Refers to financial & management accounting
+
+| Financial Accounting                                                                | Management Accounting                                                 |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Government & shareholder accounting                                                 | Internal analysis of an organization                                  |
+| Balance sheets, income statements, cash flow statements<br>(i.e., formal documents) | No specific standards, focused on internal management decision-making |
+### Types of Ledgers and Accounts
+- **General ledger (G/L)** - main ledger, the most important ledger in the SAP system as it contains the master data
+- **Reconciliation accounts** - pushes updates in subsidiary ledgers (smaller ledger) to the G/L
+- Subsidiary ledgers:
+	- **Accounts payable** - Owed *by* the business, i.e. incoming invoices or outgoing payments.
+		- For example, Supplier invoices raise the liabilities G/L and the balance sheet
+	- **Accounts receivable** - Owed *to* the business, i.e. incoming payments & other customer receivables.
+		- Each customer account is linked to G/L Accounting.
+		- For example, income payments reduce the receivables on the customer account, the G/L total receivables, and the balance sheet
+	- **Asset accounting** - for assets
+	- All of these subsidiary ledgers go to the balance sheet, which record assets and liabilities + equity.
+	- Profit and loss accounts are recorded (revenue, profit, expenses, losses) but on a separate ledger
+
+![[Pasted image 20260129170920.png]]
+
+### Accounting in SAP S4/HANA
+- SAP allows for each step of the accounting process to be traceable in real-time w/ individual documents
+- G/L accounts are structured in a "**Chart of Account**" in SAP. The standard one is **YCOA**
+- The G/L is made up of **Financial Statements**. Each company code allows only specific types of accounts, which are then structured in the Financial Statement
+- Additionally, Financial Statements have many different versions depending on the country & business
+
+![[Pasted image 20260129172550.png]]
+

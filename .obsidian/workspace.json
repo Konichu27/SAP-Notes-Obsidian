@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "3a0364453caed4bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "35d2f27cab0eedd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "289218fe769a390c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAP Basics/3 - Invoice Receipt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - Invoice Receipt"
+            }
+          },
+          {
+            "id": "c31e514bf724c75a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAP Basics/4 - Financial & Management Accounting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 - Financial & Management Accounting"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9ee031931cfe030",
+    "type": "split",
+    "children": [
+      {
+        "id": "c654a373472e2164",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac4de8cabecf0c87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a12e0c12eff1a0ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8aec6d1038c3292f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "05e3cf132ee8067e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f659699b074c93c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41f8249b7f1f8dc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SAP Basics/4 - Financial & Management Accounting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4 - Financial & Management Accounting"
+            }
+          },
+          {
+            "id": "34bad1dad2e11293",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SAP Basics/4 - Financial & Management Accounting.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4 - Financial & Management Accounting"
+            }
+          },
+          {
+            "id": "3606a236df4b3bdc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ef5f62b8a27bd800",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c01f91528ead75f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SAP Basics/4 - Financial & Management Accounting.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4 - Financial & Management Accounting"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c31e514bf724c75a",
+  "lastOpenFiles": [
+    "4.1 - Balance Sheet _ Income Statement.pdf",
+    "4.1 - Balance Sheet _ Income Statement.pdf.crdownload",
+    "Pasted image 20260129172550.png",
+    "Pasted image 20260129170920.png",
+    "SAP Basics/3 - Invoice Receipt.md",
+    "SAP Basics/4 - Financial & Management Accounting.md",
+    "0 - SAP Fiori Introduction.pdf",
+    "3 - Invoice Verification.pdf",
+    "3 - Invoice Verification.pdf.crdownload",
+    "Pasted image 20260129115711.png",
+    "Pasted image 20260129115428.png",
+    "Welcome.md",
+    "SAP Basics"
+  ]
+}
