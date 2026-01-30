@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "35d2f27cab0eedd4",
+        "id": "e3a97bd1bbcc4d1e",
         "type": "tabs",
         "children": [
           {
-            "id": "d7bb9e822752ceb3",
+            "id": "fc05331ba21567a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "05e3cf132ee8067e",
@@ -183,29 +184,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "d7bb9e822752ceb3",
+  "active": "fc05331ba21567a6",
   "lastOpenFiles": [
+    "Pasted image 20260130174620.png",
+    "Pasted image 20260130174216.png",
     "SAP Basics/3 - Invoice Receipt.md",
-    "IBM - Exploring Cloud Computing/Introduction.md",
-    "IBM - Exploring Cloud Computing",
+    "SAP Basics/4 - Financial & Management Accounting.md",
+    "SAP Partner Network (notes).txt",
+    "SAP Basics/Pasted image 20260129172550.png",
+    "SAP Basics/Pasted image 20260129170920.png",
+    "SAP Basics/Pasted image 20260129115711.png",
+    "SAP Basics/Pasted image 20260129115428.png",
+    "SAP Basics/Pasted image 20260128234741.png",
+    "SAP Basics/Pasted image 20260128234114.png",
     "SAP Basics/Pasted image 20260128231050.png",
     "SAP Basics/External Files/S2P_In_Depth_2025-02-13.pdf",
+    "SAP Basics/External Files/R2R_In_Depth_2025-02-13.pdf",
     "SAP Basics/External Files/L2C_In_Depth_2025-02-13.pdf",
     "SAP Basics/External Files/D2O_In_Depth_2025-02-13.pdf",
     "SAP Basics/External Files/4.1 - Balance Sheet _ Income Statement.pdf",
     "SAP Basics/External Files/3 - Invoice Verification.pdf",
     "SAP Basics/External Files/2 - How to create or manage a Purchase Order.pdf",
-    "SAP Basics/External Files/0 - SAP Fiori Introduction.pdf",
     "SAP Basics/External Files/1 - How to create or manage a Goods Receipt.pdf",
-    "SAP Basics/0 - Basics.md",
-    "SAP Basics/External Files",
-    "SAP Basics/1 - Purchase Order.md",
+    "SAP Basics/External Files/0 - SAP Fiori Introduction.pdf",
     "SAP Basics/2 - Goods Receipt.md",
-    "SAP Basics/4 - Financial & Management Accounting.md",
-    "SAP Basics/Pasted image 20260129172550.png",
-    "SAP Basics/Pasted image 20260129170920.png",
-    "SAP Basics/Pasted image 20260129115711.png",
-    "SAP Basics/Pasted image 20260129115428.png",
+    "SAP Basics/1 - Purchase Order.md",
+    "SAP Basics/0 - Basics.md",
+    "IBM - Exploring Cloud Computing/Introduction.md",
+    "Pasted image 20260129172550.png",
+    "Pasted image 20260129170920.png",
     "Welcome.md"
   ]
 }
