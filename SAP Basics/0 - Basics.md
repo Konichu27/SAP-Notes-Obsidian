@@ -12,7 +12,6 @@
 - Digital ERP Core - Contains API, data integrations, etc.
 - Extension Capabilities - Core HR, SCM, etc. functions
 - Business-Specific Systems - other systems related to the business
-
-> ### Our Case Study for This Course
-> - Bike Company, a company that makes bikes!
-> - Trent is our example customer
+### Our Case Study for This Course
+- Bike Company, a company that makes bikes!
+- Trent is our example customer
