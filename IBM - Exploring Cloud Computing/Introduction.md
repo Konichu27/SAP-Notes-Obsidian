@@ -1,0 +1,8 @@
+- **Cloud computing** - digital services provided on the internet, instead of onsite
+- **Cloud service provider** - provides IaaS, PaaS, and SaaS
+	- IaaS - borrows network, storage, components
+	- PaaS - borrows cloud-provided environments for app development
+	- SaaS - file management
+- **Virtualization** - allows multiple OSes on a single machine
+- **VMs** - different network interfaces, memory, storage, etc. on the same machine
+- 
