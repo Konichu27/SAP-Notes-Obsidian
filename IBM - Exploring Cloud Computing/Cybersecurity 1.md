@@ -1,0 +1,8 @@
+- **CIA** - Confidentiality, Integrity, Availability
+- Threat model
+- Belle-LaPedulla model:
+	- Users should not "read-up" or "write-down" clearance levels
+	- Read up - lower-clearance should not read higher-clearance
+	- Write down - higher-clearance should not edit lower-clearance
+		- This prevents accidental leakage of higher-clearance data
+- **Canaries** - unused buffer space used to detect buffer attacks

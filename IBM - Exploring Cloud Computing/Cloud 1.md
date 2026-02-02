@@ -28,3 +28,45 @@
 - **Hybrid cloud** - public & private resources
 
 ![[Pasted image 20260130174216.png]]
+
+- **Multicloud** - the use of more than one public cloud, usually either separate IaaS and SaaS, or multiple IaaS
+
+### Other Terminology
+- **Cloud** - can also be defined as the *Internet*
+- **Cloud computing** - Internet-based computing
+- **Clusters** - a collection of standalone computers that work as a single interconnected resource
+- **Containers** - a "wrapper" for software in a single OS.
+	- **IMPORTANT!** VMs simulate up to the hardware level, containers simulate only above the OS level
+	- **Kubernetes** - open-source software for managing containers
+- **Premises** - where the cloud data is stored
+	- **Off-premises** - different location than the end users
+	- **On-premises** - own company's data center
+	- **Hybrid** - both, useful if usage comes on bursts. i.e., the company can use an on-premises cloud that scales to vendor's off-premises servers during peak times
+	- An organization can have a private cloud either on premises or off premises.
+- **Local** - on-premises private cloud
+- **Dedicated** - off-premises private cloud
+- **Public** - public cloud
+
+### Did You Know?
+- 2.5 quintillion bytes are added to the Internet everyday
+- Examples of programming languages used for cloud:
+	- Python
+	- Perl
+	- Ruby
+	- Puppet
+	- Chef
+	- Ansible
+	- Docker
+	- VMware
+- Other programming languages:
+	- PHP
+	- Java
+	- .NET
+- Major vendors' training
+	- AWS
+	- Azure
+	- Google Cloud
+	- IBM Cloud
+	- Red Hat
+
+### 
