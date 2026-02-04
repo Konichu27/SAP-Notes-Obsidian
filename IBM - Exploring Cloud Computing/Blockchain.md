@@ -1,0 +1,4 @@
+- **Block** - group of transactions held in chronological order
+- **New blocks** are made with new transactions. They are chained to the previous block so on and so forth.
+- All copies of the transaction are then updated simultaneously throughout a network
+	- **Consensus** - all nodes in the network must agree
