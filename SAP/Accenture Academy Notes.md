@@ -1,5 +1,27 @@
 ![[Pasted image 20260204114202.png]]
 
+![[Pasted image 20260212143817.png]]
+
+![[Pasted image 20260212143923.png]]
+
+![[Pasted image 20260212144230.png]]
+
+![[Pasted image 20260212142455.png]]
+
+Tracks
+- ABAP - Development path
+- BTP (Business Technology Platform) - integration w/ other applications
+- BASIS - administration (hyperscalers etc.)
+- Functional consulting
+	- FICO - accounting
+	- SCM
+	- Sales
+
+| Jodie Salas | SAP Lead |
+| ----------- | -------- |
+|             |          |
+
+
 ALPS - Internal training platform for SAP for ACN
 - Learning sessions
 - We are ~~Interns~~ Academy Delegates
