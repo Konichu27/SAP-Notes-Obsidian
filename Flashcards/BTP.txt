@@ -1,4 +1,3 @@
-"Front","Back"
 "What are the 5 main pillars of the Business Technology Platform (BTP)?","1. App Dev<br>2. Automation<br>3. Integration<br>4. AI<br>5. Data and Analytics"
 "What are the 6 core characteristics of the Business Technology Platform?","1. Secure and compliant<br>2. Open and flexible<br>3. Unified and simple<br>4. Broad ecosystem<br>5. Enterprise grade and scalable<br>6. Business centric"
 "List the capabilities under the **App Dev** pillar.","Visual low-code/no-code experience, Pro-code tooling, Digital experience, and DevOps."

@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAP/Accenture Academy Notes.md",
+                "file": "SAP/SAP End-to-End Business Processes/5 - Business Transformation Management Solutions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Accenture Academy Notes"
+              "title": "5 - Business Transformation Management Solutions"
+            }
+          },
+          {
+            "id": "b4fce1422a79cfa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAP/SAP End-to-End Business Processes/6 - SAP Enterprise Structures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6 - SAP Enterprise Structures"
+            }
+          },
+          {
+            "id": "8ea0d943307e8af3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAP/SAP End-to-End Business Processes/6.1 - Types of Data Objects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.1 - Types of Data Objects"
+            }
+          },
+          {
+            "id": "2c34877a9260133f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAP/SAP End-to-End Business Processes/6.2 - Other Terminology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.2 - Other Terminology"
+            }
+          },
+          {
+            "id": "0d06029a155d941b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Mining Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Mining Introduction"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,34 +240,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "fa0eac210ff9bdf1",
+  "active": "2c34877a9260133f",
   "lastOpenFiles": [
+    "Pasted image 20260213183432.png",
+    "Pasted image 20260213183427.png",
+    "SAP/SAP End-to-End Business Processes/6.1 - Types of Data Objects.md",
+    "SAP/SAP End-to-End Business Processes/6.2 - Other Terminology.md",
+    "SAP/SAP End-to-End Business Processes/6 - SAP Enterprise Structures.md",
+    "Pasted image 20260213181245.png",
+    "Pasted image 20260213181226.png",
+    "Pasted image 20260213181205.png",
+    "Pasted image 20260213181120.png",
+    "Data Mining Introduction.md",
+    "SAP/SAP Basics/3 - Order-to-Cash (Sales)/3.1 - Introduction.md",
+    "Flashcards/Enterprise Structure.txt",
+    "SAP/SAP End-to-End Business Processes/5 - Business Transformation Management Solutions.md",
+    "Pasted image 20260213164407.png",
+    "Pasted image 20260213163849.png",
+    "SAP/SAP End-to-End Business Processes/4 - Industry-Specific Solutions.md",
+    "Flashcards/Sustainability.txt",
+    "Flashcards/Industry Groups.txt",
+    "SAP/SAP End-to-End Business Processes/3 - SAP Business Data Cloud.md",
+    "SAP/SAP End-to-End Business Processes/2 - Characteristics of SAP BTP.md",
+    "SAP/Accenture Academy Notes.md",
     "Pasted image 20260212144230.png",
     "Pasted image 20260212143923.png",
     "Pasted image 20260212143817.png",
-    "Pasted image 20260212142455.png",
     "SAP/SAP Basics/0 - Basics.md",
     "SAP/SAP Applications.md",
     "SAP Notes.md",
     "SAP/SAP End-to-End Business Processes/0 - Introduction.md",
     "SAP/SAP End-to-End Business Processes/1 - Cloud ERP Solutions.md",
-    "SAP/SAP End-to-End Business Processes/2 - Characteristics of SAP BTP.md",
-    "SAP/SAP End-to-End Business Processes/3 - SAP Business Data Cloud.md",
-    "SAP/SAP End-to-End Business Processes/4 - Industry-Specific Solutions.md",
-    "SAP/SAP End-to-End Business Processes/5 - Business Transformation Management Solutions.md",
     "SAP.md",
     "SAP",
-    "Pasted image 20260210155904.png",
-    "Pasted image 20260210155901.png",
     "SAP/SAP Clean Cloud/1.1 - Business Processes.md",
-    "Pasted image 20260210153702.png",
-    "Pasted image 20260210153033.png",
-    "Pasted image 20260210150655.png",
     "SAP/SAP Clean Cloud/2 - Implementation Types.md",
     "SAP/SAP Clean Cloud/Levels of Clean Core.md",
-    "Pasted image 20260210145856.png",
-    "Pasted image 20260210143539.png",
-    "SAP/Accenture Academy Notes.md",
     "SAP/SAP Clean Cloud/1.2 - Extensions.md",
     "SAP/SAP Basics/1 - Procure-to-Pay (Finance)/1.4.1 - Financial & Management Accounting.md",
     "SAP/SAP Basics/1 - Procure-to-Pay (Finance)/1.1 - Purchase Order.md",
@@ -218,18 +283,10 @@
     "IBM - Exploring Cloud Computing/Blockchain.md",
     "SAP/SAP Clean Cloud/1 - Clean Core Components.md",
     "SAP/SAP Clean Cloud/0 - Introduction.md",
-    "SAP/SAP Basics/3 - Order-to-Cash (Sales)/3.3 - Billing & Accounts Receivable.md",
-    "SAP/SAP Clean Cloud/1.3 - Data.md",
-    "SAP/SAP Basics/1 - Procure-to-Pay (Finance)/1.5 - Managing Accounts Payable.md",
-    "SAP/SAP Basics/1 - Procure-to-Pay (Finance)/1.4.2 - Financial & Management Accounting.md",
-    "SAP/SAP Basics/1 - Procure-to-Pay (Finance)/1.3 - Invoice Receipt.md",
     "Untitled.base",
     "SAP/SAP Basics/External Files/3.3.2 - Accounts Receivable.pdf",
     "SAP/SAP Clean Cloud",
     "SAP/SAP Basics/External Files/3.3.1 - Billing.pdf",
-    "SAP Basics/External Files/3.3 - Billing.pdf",
-    "SAP Basics/External Files/3.3 - Billing.pdf.crdownload",
-    "SAP Basics/External Files/3.3. - Billing.pdf",
-    "SAP/SAP Basics/External Files/3.2 - Deliveries.pdf"
+    "SAP Basics/External Files/3.3 - Billing.pdf"
   ]
 }
