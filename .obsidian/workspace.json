@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e3c81dbb91b992bd",
+        "id": "e740d3e8a464e831",
         "type": "tabs",
         "children": [
           {
-            "id": "fa0eac210ff9bdf1",
+            "id": "e9cb2b5842665b48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAP/SAP End-to-End Business Processes/5 - Business Transformation Management Solutions.md",
+                "file": "SAP/Accenture Academy Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - Business Transformation Management Solutions"
-            }
-          },
-          {
-            "id": "b4fce1422a79cfa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAP/SAP End-to-End Business Processes/6 - SAP Enterprise Structures.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6 - SAP Enterprise Structures"
-            }
-          },
-          {
-            "id": "8ea0d943307e8af3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAP/SAP End-to-End Business Processes/6.1 - Types of Data Objects.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.1 - Types of Data Objects"
-            }
-          },
-          {
-            "id": "2c34877a9260133f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAP/SAP End-to-End Business Processes/6.2 - Other Terminology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.2 - Other Terminology"
-            }
-          },
-          {
-            "id": "0d06029a155d941b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Mining Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Data Mining Introduction"
+              "title": "Accenture Academy Notes"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"asset accounting\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -240,53 +183,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "2c34877a9260133f",
+  "active": "e9cb2b5842665b48",
   "lastOpenFiles": [
-    "Pasted image 20260213183432.png",
-    "Pasted image 20260213183427.png",
-    "SAP/SAP End-to-End Business Processes/6.1 - Types of Data Objects.md",
-    "SAP/SAP End-to-End Business Processes/6.2 - Other Terminology.md",
-    "SAP/SAP End-to-End Business Processes/6 - SAP Enterprise Structures.md",
-    "Pasted image 20260213181245.png",
-    "Pasted image 20260213181226.png",
-    "Pasted image 20260213181205.png",
-    "Pasted image 20260213181120.png",
+    "SAP/SAP End-to-End Business Processes/2_Recruit-to-Retire (HCM)/4 - Payroll.md",
+    "SAP/SAP End-to-End Business Processes/2_Recruit-to-Retire (HCM)/3 - Employee Central.md",
+    "SAP/SAP End-to-End Business Processes/2_Recruit-to-Retire (HCM)/2 - Onboarding.md",
+    "SAP/SAP End-to-End Business Processes/2_Recruit-to-Retire (HCM)/1 - Recruiting.md",
+    "SAP/SAP End-to-End Business Processes/2_Recruit-to-Retire (HCM)/0 - Introduction.md",
+    "SAP/SAP End-to-End Business Processes/2_Recruit-to-Retire (HCM)/External Files/Pasted image 20260222162711.png",
+    "Other External Files (unorganized)/Pasted image 20260202230943.png",
+    "Untitled.md",
     "Data Mining Introduction.md",
-    "SAP/SAP Basics/3 - Order-to-Cash (Sales)/3.1 - Introduction.md",
+    "Other External Files (unorganized)",
+    "SAP/SAP End-to-End Business Processes/2_Recruit-to-Retire (HCM)/External Files/Pasted image 20260222162549.png",
+    "SAP/SAP End-to-End Business Processes/2_Recruit-to-Retire (HCM)/External Files/Pasted image 20260222162542.png",
+    "SAP/SAP End-to-End Business Processes/2_Recruit-to-Retire (HCM)/External Files/Pasted image 20260222162511.png",
+    "SAP/SAP End-to-End Business Processes/2_Recruit-to-Retire (HCM)/External Files",
+    "document header.md",
+    "Other External Files (unorganized)/Pasted image 20260222160803.png",
+    "Other External Files (unorganized)/Pasted image 20260222152927.png",
+    "Other External Files (unorganized)/Pasted image 20260222152640.png",
+    "Other External Files (unorganized)/Pasted image 20260222152628.png",
+    "Other External Files (unorganized)/Pasted image 20260222144724.png",
+    "SAP/SAP End-to-End Business Processes/0 - Introduction.md",
+    "SAP/SAP End-to-End Business Processes/6 - SAP Enterprise Structures.md",
+    "SAP/SAP End-to-End Business Processes/2_Recruit-to-Retire (HCM)",
+    "SAP/SAP End-to-End Business Processes/6.2 - Other Terminology.md",
+    "SAP/SAP End-to-End Business Processes/1_Record-to-Report (FI)/7.1 - Financial Accounting (FI).md",
+    "SAP/SAP End-to-End Business Processes/1_Record-to-Report (FI)/7.1.1 - Managing General Ledger.md",
+    "SAP/SAP End-to-End Business Processes/1_Record-to-Report (FI)/7.1.2 - Accounts Payable.md",
+    "SAP/SAP End-to-End Business Processes/1_Record-to-Report (FI)",
+    "SAP/SAP End-to-End Business Processes/1_Record-to-Report (FI)/7.2.1.1 - Cost Planning.md",
+    "SAP/SAP End-to-End Business Processes/1_Record-to-Report (FI)/7.2.1 - Controlling (CO).md",
+    "SAP/SAP End-to-End Business Processes/1_Record-to-Report (FI)/7.4 - Parallel Accounting.md",
+    "SAP/SAP End-to-End Business Processes/1_Record-to-Report (FI)/7.3 - Asset Accounting (FI-AA).md",
+    "SAP/SAP Basics/1 - Procure-to-Pay (Finance)/1.4.1 - Financial & Management Accounting.md",
+    "SAP/SAP End-to-End Business Processes/1_Record-to-Report (FI)/7.2.1.2 - Actual Posting.md",
+    "SAP/SAP End-to-End Business Processes/1_Record-to-Report (FI)/7.2 - Management Accounting (CO).md",
+    "SAP/SAP End-to-End Business Processes/1_Record-to-Report (FI)/7.1.3 - Accounts Receivable.md",
+    "SAP/SAP Basics/1 - Procure-to-Pay (Finance)/1.5 - Managing Accounts Payable.md",
+    "SAP/SAP Basics/3 - Order-to-Cash (Sales)/3.3 - Billing & Accounts Receivable.md",
+    "SAP/SAP Basics/1 - Procure-to-Pay (Finance)/1.1 - Purchase Order.md",
     "Flashcards/Enterprise Structure.txt",
-    "SAP/SAP End-to-End Business Processes/5 - Business Transformation Management Solutions.md",
-    "Pasted image 20260213164407.png",
-    "Pasted image 20260213163849.png",
-    "SAP/SAP End-to-End Business Processes/4 - Industry-Specific Solutions.md",
     "Flashcards/Sustainability.txt",
     "Flashcards/Industry Groups.txt",
-    "SAP/SAP End-to-End Business Processes/3 - SAP Business Data Cloud.md",
-    "SAP/SAP End-to-End Business Processes/2 - Characteristics of SAP BTP.md",
-    "SAP/Accenture Academy Notes.md",
-    "Pasted image 20260212144230.png",
-    "Pasted image 20260212143923.png",
-    "Pasted image 20260212143817.png",
-    "SAP/SAP Basics/0 - Basics.md",
-    "SAP/SAP Applications.md",
-    "SAP Notes.md",
-    "SAP/SAP End-to-End Business Processes/0 - Introduction.md",
-    "SAP/SAP End-to-End Business Processes/1 - Cloud ERP Solutions.md",
-    "SAP.md",
     "SAP",
-    "SAP/SAP Clean Cloud/1.1 - Business Processes.md",
-    "SAP/SAP Clean Cloud/2 - Implementation Types.md",
-    "SAP/SAP Clean Cloud/Levels of Clean Core.md",
-    "SAP/SAP Clean Cloud/1.2 - Extensions.md",
-    "SAP/SAP Basics/1 - Procure-to-Pay (Finance)/1.4.1 - Financial & Management Accounting.md",
-    "SAP/SAP Basics/1 - Procure-to-Pay (Finance)/1.1 - Purchase Order.md",
     "SAP/SAP End-to-End Business Processes",
-    "IBM - Exploring Cloud Computing/Blockchain.md",
-    "SAP/SAP Clean Cloud/1 - Clean Core Components.md",
-    "SAP/SAP Clean Cloud/0 - Introduction.md",
-    "Untitled.base",
-    "SAP/SAP Basics/External Files/3.3.2 - Accounts Receivable.pdf",
-    "SAP/SAP Clean Cloud",
-    "SAP/SAP Basics/External Files/3.3.1 - Billing.pdf",
-    "SAP Basics/External Files/3.3 - Billing.pdf"
+    "Untitled.base"
   ]
 }

@@ -10,6 +10,7 @@ Ex.
 - **Controlling** - manages financial spending
 	- **Operating concern** - for profitability analysis (*CO-PA* in SAP terms)
 		- Sales uniform structure? Uniform analysis level of spending? (idk what this means)
+		- Divided into controlling entries
 	- **Controlling entry** - for management accounting
 		- Where all costs and revenue are allocated
 		- Basic financial structure for controlling 
@@ -50,7 +51,7 @@ Ex.
 
 > [!NOTE] In S/4 HANA...
 > Two types of configurations: applications & business processes
-> Business processes are configured during system setup/customization, not daily activities
+> Business processes are configured during system setup/customization, not daily activities.
 
 >[!NOTE] We also have **3** different types of purchasing organization configurations...
 >1. Central purchasing organization

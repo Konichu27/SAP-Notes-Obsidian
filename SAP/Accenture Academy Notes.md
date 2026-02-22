@@ -17,6 +17,10 @@ Tracks
 	- SCM
 	- Sales
 
+| **id**   | **age**  | **job**   | **marital** | **education** | **default** | **balance** | **housing** | **loan** | **contact** | **day**  | **month** | **duration** | **campaign** | **pdays** | **previous** | **poutcome** | **y** |
+| -------- | -------- | --------- | ----------- | ------------- | ----------- | ----------- | ----------- | -------- | ----------- | -------- | --------- | ------------ | ------------ | --------- | ------------ | ------------ | ----- |
+| 1595.076 | 44.82851 | entreprer | married     | primary       | no          | 2075.383    | yes         | no       | unknown     | 14.72658 | may       | 121.8738     | 1.372214     | 4.953944  | -0.063976    | unknown      | no    |
+
 | Jodie Salas | SAP Lead |
 | ----------- | -------- |
 |             |          |
