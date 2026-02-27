@@ -9,7 +9,7 @@
 		- **Interval** - calendar dates, temperatures
 		- **Ratio** - temperatures in Kelvin, length, time, counts
 		- ![[Pasted image 20260131074713.png]]
-	- **Asymmmetric** - typically associated with sets
+	- **Asymmetric** - typically associated with sets
 		- Association analysis
 		- Only presence is important
 	- **Types of data sets**

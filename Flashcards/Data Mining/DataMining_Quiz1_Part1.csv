@@ -1,0 +1,31 @@
+What is the primary goal of Data Mining when analyzing very large collections of data?	To extract useful and possibly unexpected patterns.
+How is Data Mining defined in terms of the information it extracts from data?	The non-trivial extraction of implicit, previously unknown, and potentially useful information.
+Why is looking up a phone number in a directory not considered data mining?	Because it is a simple query/lookup, not the discovery of non-trivial or unexpected patterns.
+Which discipline focuses on applying complex methods to relatively small datasets, in contrast to Data Mining's focus on large datasets?	Artificial Intelligence / Machine Learning.
+Why might traditional statistical techniques be unsuitable for modern Data Mining?	Because modern data is often large-scale, high-dimensional, heterogeneous, or complex.
+In the standard 7-stage Data Mining process, what stage immediately follows Data Transformation?	Data Mining.
+What is the final stage of the Data Mining process?	Knowledge Representation.
+What is the primary purpose of Data Cleaning?	To fix or remove incorrect, corrupted, duplicate, or incomplete data within a dataset.
+What is the Data Integration stage?	Combining data from different sources to provide the user with a unified view.
+How does Data Selection differ from Data Collection?	Data selection is determining appropriate data types/sources before the actual collection begins.
+What does the Completeness characteristic of quality data measure?	The degree to which all required data is known.
+In data quality, what is the difference between Accuracy and Validity?	Accuracy is closeness to true values; Validity is conformity to defined business rules/constraints.
+What is Data Smoothing used for?	To remove noise from a dataset using algorithms like binning or regression.
+In Data Transformation, what is the purpose of Data Aggregation?	Storing and presenting data in a summary format.
+What is the range typically used in Min-max normalization?	A much smaller range, such as [0.0, 1.0] or [-1.0, 1.0].
+How does Data Discretization make data easier to study?	By substituting continuous attribute values with small interval labels.
+What is the difference between Prediction and Description methods in Data Mining?	Prediction forecasts unknown values; Description finds human-interpretable patterns to explain data.
+What is the goal of Classification?	To find a model for a class attribute as a function of the values of other attributes.
+In classification, what is the "class attribute"?	The categorical label or target variable the model is trying to predict (e.g., "fraud" vs. "fair").
+How does Regression differ from Classification?	Regression predicts continuous-valued variables, while Classification predicts discrete class labels.
+What is the goal of Clustering?	To group objects so items in the same group are similar and items in different groups are distinct.
+In Association Discovery, what do dependency rules predict?	The occurrence of an item based on the occurrences of other items in the same record.
+What does Support measure in pattern evaluation?	The percentage of total records that contain the specific pattern.
+What does the Confidence of a pattern represent?	The percentage of times that the discovered pattern is found to be correct.
+How is Lift calculated for a pattern?	The ratio of the number of times a pattern is correct to the number of times it was expected to be correct.
+What is the "Visual Inspection" method of pattern evaluation?	Plotting data in a graphical format so a human miner can see if the patterns make sense.
+How is Declarative Knowledge defined?	"Knowing about" something (concepts, facts, and objects).
+What is Procedural Knowledge (Imperative Knowledge)?	Knowledge responsible for "knowing how" to do something (rules, strategies, procedures).
+What is Meta-knowledge?	Knowledge about other types of knowledge.
+What is Heuristic Knowledge?	"Rules of thumb" or expert knowledge based on previous experience (not guaranteed to work).
+In knowledge representation, what is Inferential Adequacy?	The ability to manipulate representational structures to produce new knowledge from existing structures.

@@ -6,6 +6,8 @@
 
 ![[Pasted image 20260212144230.png]]
 
+![[Pasted image 20260226143952.png]]
+
 ![[Pasted image 20260212142455.png]]
 
 Tracks

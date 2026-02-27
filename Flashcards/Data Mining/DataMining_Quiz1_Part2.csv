@@ -1,0 +1,30 @@
+What is the definition of an "Attribute" in data mining?	A property or characteristic of an object (also known as a variable, field, or feature).
+What is the definition of an "Object" in data mining?	A collection of attributes that describes a single entity (also known as a record, point, or instance).
+What is the distinction between an attribute and an attribute value?	The attribute is the characteristic (e.g., height), while the value is the specific measurement (e.g., 175 cm).
+How many properties does a "Nominal" attribute possess?	One: Distinctness (=, ≠).
+How does an "Ordinal" attribute differ from a "Nominal" attribute?	Ordinal attributes possess both distinctness and order (<, >).
+What additional property do "Interval" attributes have that "Ordinal" attributes do not?	Meaningful differences between values (+, -).
+What is the defining characteristic of a "Ratio" attribute?	Both differences and ratios are meaningful (*, /), and it has a true zero point.
+What is a "Discrete" attribute?	An attribute that has a finite or countably infinite set of values (often represented as integers).
+What is a "Continuous" attribute?	An attribute that uses real numbers as values (typically represented as floating-point variables).
+What is an "Asymmetric" attribute?	An attribute where only the presence (non-zero value) is considered important, such as words in a document.
+How does "Noise" differ from "Outliers"?	Noise is random error or variance in a measured variable; Outliers are data objects with characteristics significantly different from the rest.
+What is the difference between "Missing at Random" (MAR) and "Missing Completely at Random" (MCAR)?	In MCAR, missingness is independent of any attribute; in MAR, missingness is related to other observed variables.
+What is "Data Cleaning"?	The process of fixing or removing incorrect, corrupted, duplicate, or incomplete data within a dataset.
+What is a "Similarity Measure"?	A numerical measure of how alike two data objects are; higher values indicate greater similarity.
+What is a "Dissimilarity Measure"?	A numerical measure of how different two data objects are; lower values indicate greater similarity.
+When is standardization necessary before calculating Euclidean Distance?	When the scales of the attributes differ, to prevent one attribute from dominating the distance.
+What is "Manhattan Distance" (City Block) in the context of Minkowski Distance?	A special case of Minkowski distance where the parameter r = 1.
+What is "Supremum Distance" (Lmax norm)?	The maximum difference between any single component of two vectors (Minkowski distance where r → ∞).
+What does "Mahalanobis Distance" account for that Euclidean distance does not?	The correlations between variables (using the covariance matrix).
+When should you use the Jaccard Coefficient instead of the Simple Matching Coefficient (SMC)?	When dealing with asymmetric binary attributes where the "0-0" matches are not important.
+What is "Cosine Similarity" primarily used for?	Measuring the similarity between document vectors by focusing on the angle between them rather than magnitude.
+What does "Entropy" measure in information theory?	The degree of uncertainty or randomness in an outcome.
+What is "Data Smoothing"?	A transformation process used to remove noise from a dataset using algorithms like binning, regression, or clustering.
+In data transformation, what is "Aggregation"?	The method of storing and presenting data in a summary format (e.g., calculating the sum or mean).
+What is "Min-max normalization"?	Scaling data values to a specific smaller range, typically [0.0, 1.0] or [-1.0, 1.0].
+What is the purpose of "Data Discretization"?	To convert continuous data into a set of discrete intervals or labels to make it easier to study.
+What is "Dimensionality Reduction" used for in pre-processing?	Reducing the number of random variables under consideration by obtaining a set of principal variables.
+How does "Top-down discretization" (splitting) work?	By starting with one interval and repeatedly breaking it into smaller intervals based on split points.
+What is "Bottom-up discretization" (merging)?	Starting with all constant values as split points and discarding some by combining neighboring values.
+What is "Attribute Construction"?	Creating new attributes from existing ones to simplify the data and make mining more efficient.

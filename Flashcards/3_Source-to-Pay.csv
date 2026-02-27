@@ -1,0 +1,77 @@
+﻿Which phase of an SAP implementation is specifically dedicated to process testing?	Realization Phase
+What is the primary procurement solution used within the SAP ecosystem?	SAP Ariba
+Name the SAP Ariba component used for collaborative sourcing and electronic invoice submission.	Ariba Network
+List the three key stages of the procurement lifecycle covered by the term 'Procure-to-Pay'.	Requisitioning, purchasing, and payment
+What is the first step in the Procure-to-Pay process?	Identification of need
+What internal document initiates the procurement process?	Purchase Requisition
+At what stage of the Source-to-Pay process is a legally binding contract established with a vendor?	Purchase Order creation
+Which document is created by a vendor in response to a Request for Quotation (RFQ)?	Quotation
+What is the primary purpose of a '3-way match' in invoice verification?	To ensure accuracy between the Purchase Order, Goods Receipt, and Invoice
+During the Source-to-Pay process, at which point is a Financial Accounting (FI) document first created?	Goods Receipt
+Which account is credited during a Goods Receipt to represent an unbilled liability?	GR/IR account
+What happens to the GR/IR account when a supplier invoice is successfully posted?	It is cleared (zeroed out)
+Which SAP transaction code is used to create a Purchase Requisition?	ME51N
+Which SAP transaction code is used to create a Purchase Order?	ME21N
+Which multi-purpose SAP transaction code is used to post a Goods Receipt?	MIGO
+Which SAP transaction code is used for Logistics Invoice Verification (three-way match)?	MIRO
+Which SAP transaction code is used to post a vendor invoice that does not reference a Purchase Order?	FB60
+Which SAP transaction code is used to execute an automatic payment run?	F110
+What data element in a Purchase Requisition determines 'who' is paying for the item?	Account Assignment Category
+What data element in a Purchase Requisition determines 'how' the item is being procured?	Item Category
+Which contract type (MK) is based on a specific total quantity of goods to be purchased?	Quantity Contract
+Which contract type (WK) is based on a specific total monetary value of goods or services?	Value Contract
+Which procurement document allows for continuous delivery schedule lines instead of individual release orders?	Scheduling Agreement
+What master data record allows the system to automatically propose a price for a specific material from a specific supplier?	Purchasing Info Record
+Which section of a Purchase Order contains information such as terms of payment and the vendor's address?	Header data
+Which section of a Purchase Order specifies the material number, quantity, and delivery date for a specific line?	Item data
+What condition must be met in both the Material Master and Supplier Master for automatic PO generation?	The 'Automatic PO' checkbox must be ticked
+What type of goods movement represents a decrease in warehouse stock, such as for consumption or shipment?	Goods Issue
+What type of goods movement is used to move stock between two different plants?	Stock Transfer
+What type of movement changes the qualification or status of stock, such as releasing it from Quality Assurance?	Transfer Posting
+During a Goods Receipt, which account is debited if the material is received into warehouse stock?	Stock Account
+In S/4HANA, which single table serves as the 'Universal Journal' for all financial and controlling postings?	ACDOCA
+Which SAP module manages customer-facing activities like Sales Orders and Billing?	Sales and Distribution (SD)
+Which SAP module manages internal manufacturing processes and material requirements planning?	Production Planning (PP)
+What is the first financial touchpoint in the Order-to-Cash (O2C) cycle?	Post Goods Issue (PGI)
+During the Order-to-Cash process, which document initiates the recognition of revenue?	Billing Document (Invoice)
+Which process covers the end-to-end journey from initial marketing to final payment collection from a customer?	Lead-to-Cash
+What is the term for stock requirements derived from a demand forecast in make-to-stock production?	Planned Independent Requirements (PIRs)
+Which tool in SAP allows a user to view the entire chain of related documents in a process?	Document Flow
+Which SAP S/4HANA feature enables real-time processing and instant data analytics?	SAP HANA in-memory database
+What modern user interface is used in SAP S/4HANA to enhance user experience?	SAP Fiori
+What is the successor to SAP ECC in the S/4HANA suite?	SAP S/4HANA Server
+Which system in a three-system landscape is used for actual end-user productive work?	Production System
+Which system in a three-system landscape is used to verify developments before they go to production?	Quality Assurance System
+What is the three-letter unique identifier for an SAP system?	System ID (SID)
+Which SAP tool organizes and monitors the movement of software changes between systems?	Transport Management System (TMS)
+Which department is exclusively responsible for executing the final vendor payment in the P2P cycle?	Finance (FI)
+What triggers the automatic conversion of a Planned Order into a Production Order?	Order Release
+During Production Order execution, what movement type represents finished goods being placed into stock?	Goods Receipt (Movement Type 101)
+Which SAP transaction code is used to create a Request for Quotation (RFQ)?	ME41
+What internal check ensures that a company has sufficient products to fulfill a Sales Order?	Availability Check (ATP)
+Which document is used to track time and labor costs spent on a specific production operation?	Operation Confirmation
+In the SAP P2P process, what happens to 'Inventory' when a Goods Receipt is posted?	Inventory quantity and value increase
+What is the term for a Purchase Order used to buy goods from an internal company-owned plant?	Stock Transport Order
+Which procurement document specifies only the materials and their quantities, without delivery dates?	Contract
+In a 3-way match, which document specifies the 'Price' that the system uses for verification?	Purchase Order
+In a 3-way match, which document specifies the 'Quantity Received' for verification?	Goods Receipt
+What happens in the system if an invoice price exceeds the tolerances defined in the Purchase Order?	The invoice is blocked for payment
+Which SAP ERP component is the predecessor to S/4HANA?	SAP ECC
+What is the term for a purchase of low-value commodities from an uncontrolled expenditure category?	Spot Buy
+Which SAP Ariba module is used for strategic sourcing and supplier management?	SAP Ariba Strategic Sourcing Solutions
+What is the primary objective of the 'Record-to-Report' (R2R) process?	Financial integrity and reporting
+During a Post Goods Issue (PGI) in the sales process, which account is debited?	Cost of Goods Sold (COGS)
+Which SAP module is integrated with SD to handle 'Receivables Management'?	Financial Accounting (FI)
+What document is generated in FI when a customer down payment is posted?	Special G/L transaction document
+In the P2P cycle, which step ensures the vendor is assessed on quality and on-time delivery?	Supplier Performance Evaluation
+What is the effect of an 'Invoice Receipt' on the vendor's account in the subledger?	It increases the credit balance (liability)
+Which SAP transaction code is used to view a Purchase Order's history?	ME23N
+A manufacturer wants to start procurement before a sales order exists. Which process should they use?	Make-to-stock
+Which type of invoice is used solely for customs purposes or providing advance information?	Pro Forma Invoice
+What is the name of the 'automatic' goods movement that happens during production operation confirmation?	Backflushing
+Which S/4HANA engine processes material requirements millions of records at a time?	MRP Live
+What is the primary role of the 'Purchasing Organization' in a PO?	Negotiating terms and conditions with vendors
+Which type of Purchase Order is used when a company sends components to a vendor to be assembled into a finished product?	Subcontracting PO
+At what stage of the P2P process is the 'Purchase Order History' first updated?	Goods Receipt
+What is the term for an invoice that arrives electronically via Electronic Data Interchange?	EDI Invoice
+Which process manages the lifecycle of financial data from transaction recording to statement generation?	Record-to-Report
