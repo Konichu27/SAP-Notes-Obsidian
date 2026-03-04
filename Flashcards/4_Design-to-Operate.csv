@@ -1,0 +1,52 @@
+What are the five key phases of the SAP Design-to-Operate process?	1. Master Data & Product Cost Calculation, 2. Demand Planning, 3. Procure to Receipt, 4. Production Order to Fulfill, 5. Reporting.
+Which SAP solution is used for tactical/strategic planning and demand sensing?	SAP Integrated Business Planning (IBP).
+In the Design-to-Operate process, what is the purpose of Demand Planning?	To create a demand plan for the future based on past sales figures.
+Which SAP S/4HANA module is responsible for the execution of the production process?	Production Planning (PP).
+What is the primary function of the SAP Supply Chain Control Tower?	To provide end-to-end visibility, exception handling, and performance management (KPIs).
+Which SAP IBP component is used for strategic and tactical decision processes?	Sales and Operations Planning (S&OP).
+What is "Demand Sensing" in SAP IBP?	Using advanced pattern recognition and multiple inputs to improve short-term forecast accuracy.
+In a Material Master, what does the "MRP Type" define?	How a material is planned (e.g., deterministic vs. consumption-based).
+In a Material Master, what does "Procurement Type" indicate?	Whether a material is produced in-house (E), externally (F), or both (X).
+What is the function of a Production Version in SAP?	It defines how production is going to take place (linking BOM and Routing).
+What does a Bill of Material (BOM) contain?	The assemblies or components required to produce a material.
+In a BOM, what happens when a "Stock Item (L)" is used in a production order?	The system generates a reservation in the warehouse.
+In a BOM, what happens when a "Non-Stock Item (N)" is used in a production order?	The system generates a purchase requisition to initiate procurement.
+What is a Work Center in SAP S/4HANA?	A specific geographical location (machine, person, or group) where an operation is carried out.
+How are internal labor costs calculated in a Work Center?	By assigning the Work Center to a Cost Center and defining Activity Types (e.g., setup, machine time).
+What information is contained in a Routing?	The sequence of operations and the work centers where they occur.
+What is the purpose of a "Confirmation of Time" in a production operation?	To record the actual time worked and trigger internal cost postings.
+What are the two steps to update a Standard Price in the Product Master?	1. Mark the cost estimate (future price), 2. Release the cost estimate (actual price).
+When does a stock revaluation occur during the price update process?	When the standard cost estimate is "Released" and stock is available.
+What is the integration link between SAP IBP and SAP S/4HANA Demand Management?	Planned Independent Requirements (PIRs).
+What is the primary goal of Material Requirements Planning (MRP)?	To guarantee material availability in the right quantity, at the right time, from the right source.
+What is "Deterministic Planning" in MRP?	Planning based on current and future sales/independent requirements for the entire BOM structure.
+What triggers replenishment in "Reorder Point Planning"?	When the stock level falls below a manually entered or calculated reorder point.
+How does "Backward Scheduling" work in MRP?	It starts from the requirement date and works backward to calculate the start date.
+What is the "Opening Period" in production scheduling?	The time required by the MRP controller to convert a planned order into a production order.
+What is the result of an MRP run if a material shortage is found for in-house production?	The system creates a Planned Order.
+What are the five main steps of Production Order processing?	1. Creation, 2. Release, 3. Goods Issue, 4. Confirmation, 5. Goods Receipt.
+What is the prerequisite for executing business processes (like Goods Issue) on a Production Order?	The order must have a "Released" (REL) status.
+What is "Backflushing" in production?	The automatic posting of a material withdrawal (Goods Issue) when an operation is confirmed.
+What are the accounting effects of a Goods Issue to a production order?	Inventory accounts are credited, and the production order is debited with actual costs.
+Which movement type is used for a Goods Receipt from a production order into inventory?	Movement Type 101.
+What happens to a Production Order in the Stock/Requirements list after a full Goods Receipt?	The production order is deleted/removed from the list.
+In Period-End Closing, what does the system calculate if an order is NOT yet DLV (Delivered) or TECO?	Work in Process (WIP).
+What triggers the calculation of Variances instead of WIP on a production order?	The order status being set to DLV (Delivered) or TECO (Technically Completed).
+What is an "Input Price Variance"?	The difference between the planned material price and the actual price at the time of withdrawal.
+What is a "Lot Size Variance"?	A variance caused by producing a different quantity than what was used in the standard cost estimate (affecting fixed costs).
+What is the final step in the production order lifecycle after settlement?	Closing the order (Status: CLSD), meaning no further postings can be made.
+Which two systems provide long-term planning for finished products?	SAP IBP for Sales and Operations and Demand Management in SAP S/4HANA.
+What is the logical sequence of the planning process?	Production Plans → Demand Plans → Planned Independent Requirements (PIR) → MRP.
+Name two specific components of the SAP IBP landscape.	IBP for Inventory and IBP for Demand-Driven Replenishment.
+What are the two essential enterprise structures used in production?	Plant and Storage Location.
+Which two types of master data are exclusively necessary for the Design-to-Operate process?	Work Centers and Routings.
+Which field in the Product Master defines the quantity reordered during an MRP run?	Lot-size Procedure.
+What are the three immediate effects of posting a Goods Issue to a production order?	1. Required products are consumed, 2. Financial documents are posted, 3. Costs are allocated to the order.
+What are the two primary uses of a Work Center?	To calculate costs for an operation and to define available capacity.
+During production order settlement, which two values are settled to Financial Accounting (FI)?	Calculated WIP (Work in Process) and Price Differences.
+Which three pieces of master data serve as input for a "Standard Cost Estimate with Quantity Structure"?	1. Bill of Material (BOM), 2. Routing, 3. Cost Elements.
+What is the primary purpose of a Standard Cost Estimate?	To update the Standard Price in the material master.
+Name three valid outputs (procurement proposals) generated by an MRP run.	1. Purchase Requisition, 2. Schedule Line, 3. Planned Order.
+Which two activities are specifically considered "Period-End Closing" for production orders?	Variance Calculation and Settlement.
+In MRP, what is the difference between a Purchase Requisition and a Purchase Order?	MRP creates a Purchase Requisition (a request); the Purchasing department must then convert it to a Purchase Order.
+Why are Routings considered "exclusive" to Design-to-Operate compared to G/L accounts?	Routings define specific manufacturing steps, whereas G/L accounts are used across all business processes.

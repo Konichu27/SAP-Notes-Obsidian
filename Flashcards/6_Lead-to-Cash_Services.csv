@@ -1,0 +1,37 @@
+What is the primary objective of the Lead-to-Cash process for Service?	To provide an integrated SAP solution for running service processes, including master data and organizational integration.
+Which legacy SAP module did SAP S/4HANA Service replace (though still available in compatibility mode)?	SAP Customer Service (CS).
+How does SAP S/4HANA Service eliminate functional redundancies between CRM and ERP?	By unifying objects so they share the same database representation without needing middleware.
+Where is the SAP S/4HANA Service organizational structure integrated?	It is fully integrated into the enterprise structure of SAP S/4HANA (specifically SD).
+In SAP S/4HANA Service, what tool is used to map task-related, functional structures like positions and employees?	The Organizational Model.
+Which three central roles define a Business Partner in SAP Service?	Account, Contact, and Employee.
+In the SAP Business Partner model, what is a "Contact"?	A person with whom you have a business relationship, usually assigned to a corporate account.
+How is an internal "Employee" linked to the SAP system for service document defaults?	The personnel master is linked to the Business Partner role "Employee" and the SAP User.
+Which three categories are used to differentiate "Products" in the material master for Service?	Service Material, Component Planning (Spare Parts), and Structuring of Technical Objects.
+What specific field in the Product Master triggers the usage of a product in service documents?	Item Category Group (e.g., Service Product or NORM).
+What four elements typically make up "Conditions" master data in Service?	Prices, Surcharges/Discounts, Freight, and Taxes.
+Which technical object category represents a system area where objects can be installed?	Functional Location.
+Which technical object category represents an individual object treated as an autonomous unit?	Equipment.
+What is the purpose of a "Serial Number" in technical objects?	To differentiate specific materials from others to treat them as individual items.
+What is a Service Contract?	An outline agreement defining the content, scope, and price of services for a specific period.
+What are "Service Levels" in the context of a service contract?	The specific entitlements or standards of service a customer is guaranteed.
+What must be created before a final Billing Document (Invoice) is generated for a service contract?	A Billing Document Request.
+Define "Time-based" recurring service.	Service tasks triggered after a specific time period has elapsed (e.g., every 6 months).
+Define "Performance-based" recurring service.	Service tasks triggered when a specific counter reading is reached (e.g., every 10,000 km).
+Define "Condition-based" preventive maintenance.	Maintenance triggered when a value (like temperature) falls outside a specified range.
+What is the function of a Service Order Template?	To standardize recurring activities by defining services and spare parts in advance.
+What three components are linked to a "Maintenance Item" within a Maintenance Plan?	Reference Object, Service Contract/Item, and Service Order Template.
+In maintenance scheduling, what does the "Cycle Start" date represent?	The date from which the calculation of planned service dates begins.
+In maintenance scheduling, why is a "Call Date" usually set earlier than the "Planned Date"?	To allow for a preprocessing phase, such as material procurement.
+Which maintenance scheduling function is used to trigger the next service order after the previous one is finished?	Schedule.
+What is the primary purpose of the "Service Management Overview" app in Fiori?	To provide a single screen for service managers to monitor key figures like expiring contracts and overdue orders.
+How does SAP S/4HANA Service benefit "Recurring Service" processes?	By automatically generating service orders through the scheduling of maintenance plans.
+Which two specific service-related KPIs can a manager monitor in the "Service Management Overview" Fiori app?	Expiring service contracts and incomplete service orders.
+What two items must be assigned to a "Maintenance Plan Item" to define the work and its entitlement?	A Service Order Template and a Service Contract Item.
+What are the two primary cloud-based components of the SAP Service solution landscape?	SAP Service Cloud and SAP Field Service Management.
+In the SAP system, which three entities can be linked to a personnel number for an internal Business Partner?	The Position (org unit), the SAP User, and the Business Partner (Employee).
+Why is the "Sold-to Party" assigned at the Service Contract header (Details) level rather than the Item level?	Because the Sold-to Party represents the primary business relationship for the entire contract, while items focus on specific products or technical objects.
+What is the mandatory sequence of documents required to charge a customer for a Service Contract?	Billing Document Request followed by the Billing Document (Invoice).
+How can a "Serial Number" be used in relation to "Equipment" in technical object management?	A serial number can be assigned to a piece of equipment to track it as an individual item.
+What is the function of an "Assembly" within the hierarchy of technical objects?	To finely structure functional locations and equipment into non-individual Bill of Material (BOM) items.
+Which two core scope items represent the middle and later stages of the Lead-to-Cash Service process?	Service Contract and Invoice Management, and Recurring Service.
+In an Organizational Model, what typically sits directly below the "Service Organization" node?	The Service Back Office and Service Technicians.

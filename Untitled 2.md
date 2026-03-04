@@ -2,23 +2,26 @@
 
 For two points $X = (x_1, \dots, x_n)$ and $Y = (y_1, \dots, y_n)$:
 
-| **Euclidean Distance ($L_2$):**      | ![[Pasted image 20260227152615.png]]                                                        |
-| ------------------------------------ | ------------------------------------------------------------------------------------------- |
-| **Manhattan Distance ($L_1$):**      | ![[Pasted image 20260227152623.png]]                                                        |
-| **Minkowski Distance ($L_p$):**      | ![[Pasted image 20260227152650.png]]\|\|                                                    |
-| **Chebyshev Distance ($L_\infty$):** | ![[Pasted image 20260227152657.png]]                                                        |
-| **Mahalanobis Distance:**            | $$d(X,Y) = \sqrt{(X-Y)^T \Sigma^{-1} (X-Y)}$$<br>_Where $\Sigma$ is the covariance matrix._ |
+
+| **Euclidean Distance ($L_2$):**      | $$d(\mathbf{x}, \mathbf{y}) = \sqrt{\sum^{n}_{k = 1} (x_k - y_k)^2}$$                            |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| **Manhattan Distance ($L_1$):**      | $$d(\mathbf{x}, \mathbf{y}) = \sum^{n}_{k = 1}  \vert x_k - y_k \vert $$                         |
+| **Minkowski Distance ($L_p$):**      | $$d(\mathbf{x}, \mathbf{y}) = \left( \sum^{n}_{k = 1} {\vert x_k - y_k \vert} ^r \right)^{1/r}$$ |
+| **Chebyshev Distance ($L_\infty$):** | $$d_{\infty}(\mathbf{x}, \mathbf{y}) = \max_i \vert x_i - y_i \vert$$                            |
+| **Mahalanobis Distance:**            | $$d(X,Y) = \sqrt{(X-Y)^T \Sigma^{-1} (X-Y)}$$<br>_Where $\Sigma$ is the covariance matrix._      |
+
 ### **II. Similarity Measures**
 
-$$||M|| = \sqrt{\sum^{n}_{i = 1} M^2_i}$$
+| $$A \cdot B = \sum^{n}_{i = 1} A_i B_i$$<br><br>*Where $A$ and $B$ are valid matrices.* | $$\vert \vert A \vert \vert = \sqrt{\sum^{n}_{i = 1} A^2_i}$$<br><br>*Where $A$ is a valid matrix.* |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 
-| **Cosine Similarity:**           | ![[Pasted image 20260227152735.png]]                         |
-| -------------------------------- | ------------------------------------------------------------ |
-| **Extended Jaccard (Tanimoto):** | $$T(A,B) = \frac{A \cdot B}{\|A\|^2 + \|B\|^2 - A \cdot B}$$ |
+| **Cosine Similarity:**           | $$\cos({\theta}) = \frac{A \cdot B}{\vert \vert A \vert \vert \space \vert \vert B \vert \vert}$$ |
+| -------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **Extended Jaccard (Tanimoto):** | $$T(A,B) = \frac{A \cdot B}{\vert\vert A \vert\vert^2 + \vert\vert B \vert\vert^2 - A \cdot B}$$  |
 ### **III. Information Theory**
-| ****Entropy ($H$):**           | $$H(S) = -\sum_{i=1}^{c} p_i \log_2(p_i)$$                                       |
-| ------------------------------ | -------------------------------------------------------------------------------- |
-| ****Information Gain ($IG$):** | $$IG(S, A) = H(S) - \sum_{v \in \text{Values}(A)} \frac{\|S_v\|}{\|S\|} H(S_v)$$ |
+| **Entropy ($H$):**           | $$H(S) = -\sum_{i=1}^{c} p_i \log_2(p_i)$$                                                       |
+| ---------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Information Gain ($IG$):** | $$IG(S, A) = H(S) - \sum_{v \in \text{Values}(A)} \frac{\vert S_v \vert}{\vert S \vert} H(S_v)$$ |
 ### **General Problem-Solving Logic**
 #### **1. Constructing the Covariance Matrix ($\Sigma$)**
 For a 2D dataset with variables $X$ and $Y$:

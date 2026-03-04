@@ -1,4 +1,3 @@
-
 - Done in **SAP Integrated Business Planning** (IBP)
 ## Production Process Steps
 1. **Master Data / Product Cost Calculation**

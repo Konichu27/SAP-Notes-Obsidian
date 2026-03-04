@@ -1,0 +1,42 @@
+What are the six stages of the Lead-to-Cash sales process in order?	Master Data, Presales Activities, Order Processing, Product Delivery, Invoicing, Money
+In SAP Sales, what three elements combine to form a "Sales Area"?	Sales Organization, Distribution Channel, and Division
+How many Company Codes can a single Sales Organization be assigned to?	One
+What is the highest-level organizational unit responsible for the entire shipping process?	Shipping Point
+At what organizational level is a "Delivery Plant" assigned?	The combination of Sales Organization and Distribution Channel
+What Business Partner role is required specifically for Sales Area data (shipping, billing)?	Customer role
+Which Business Partner role contains the reconciliation account for the General Ledger?	FI Customer role
+Why is product master data extended "locally" to Sales Organizations and Plants?	To maintain specific settings for pricing, packaging, and transport that vary by location
+Which material type (ID) is used for a "Finished Product" in SAP?	FERT
+What four elements are typically included in Condition Master data?	Prices, Surcharges/Discounts, Freight, and Taxes
+What is the purpose of Output Master Data in the sales process?	To define how information (like order confirmations) is sent to the customer (e.g., PDF, EDI)
+Which SAP system provides a 360-degree view of customer interactions for field sales teams?	SAP Sales Cloud
+In the SAP sales cycle, what is a "Lead"?	A potential sales contact (individual or organization) generated from marketing or referrals
+What sales document collects estimated deal value, products, and sales probability?	Opportunity
+What is "Guided Selling" in the context of an Opportunity?	A feature that walks the sales team through specific tasks required to create a quote
+When a Sales Quote is accepted and converted to an order, where is the order fulfilled?	SAP S/4HANA
+What check is automatically triggered in a sales order to see if stock exists for a requested date?	Material Availability Check (ATP)
+In Partner Determination, who is the "Sold-to party"?	The entity that places the order
+In Partner Determination, who is the "Payer"?	The entity responsible for paying the invoice
+What is the function of an "Incompletion Log" in a sales order?	To ensure all mandatory data is entered before the document can proceed to delivery
+What are the three levels of a sales document structure?	Header, Item, and Schedule Line
+Which level of a sales document contains the confirmed delivery quantities and dates?	Schedule Line
+What is the primary reference document used to create an Outbound Delivery?	Sales Order
+What must be true regarding the "Pick Quantity" before a Goods Issue can be posted?	The Pick Quantity must equal the Delivery Quantity
+What accounting update occurs to inventory valuation when a Goods Issue is posted?	Inventory valuation decreases (Debit COGS, Credit Inventory)
+Which document serves as the data source for Financial Accounting to monitor customer payments?	Billing Document (Invoice)
+What two postings occur in the General Ledger when an invoice is saved?	Debit Customer Receivables and Credit Revenue
+What SAP tool allows you to see the chronological history and status of all linked sales documents?	Document Flow
+What is the accounting entry for an incoming payment from a customer?	Debit Cash/Bank account and Credit Customer Receivables
+What is the benefit of using an "Electronic Bank Statement" in the Money phase?	It allows the system to automatically import files and reconcile incoming payments
+In the Lead-to-Cash process, which two document types are categorized as "Presales"?	Opportunity and Quotation
+Which organizational level is specifically required to create a delivery document?	Shipping Point
+In Financial Accounting, what is the debit/credit effect on the Cash account when an incoming payment is posted?	The Cash account is debited (increasing the asset)
+In SAP EWM, which specific action is required to finalize the "Outbound Delivery" status?	Posting the Goods Issue (GI)
+Which specific type of master data controls the calculation of customer discounts and surcharges?	Condition Master Data
+What must be done with Electronic Bank Statement items that the system fails to reconcile automatically?	Manual post-processing
+During Sales Order processing, which feature automatically verifies if a product can be delivered by the requested date?	Availability Check
+Aside from the Billing Document, which specific step in the shipping process triggers the creation of a Financial Accounting (FI) document?	Posting the Goods Issue
+What are the three core sub-processes involved in the Outbound Delivery phase?	Picking, Packing, and Posting Goods Issue
+What is the purpose of the "Availability Check" during Sales Order processing?	To ensure the requested material is in stock or will be available by the delivery date
+In the context of sales pricing, what are three common classifications of "Conditions"?	Freight, Taxes, and Discounts
+What is the relationship between "Picking" and "Posting Goods Issue"?	The Pick Quantity must equal the Delivery Quantity before the Goods Issue can be posted
