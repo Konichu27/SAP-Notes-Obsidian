@@ -1,5 +1,7 @@
 {
   "enabledCssSnippets": [
     "no-bold-headers"
-  ]
+  ],
+  "theme": "obsidian",
+  "accentColor": "#35a854"
 }

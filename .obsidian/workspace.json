@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e197c24d32c9a804",
+        "id": "a148804d8cc017e7",
         "type": "tabs",
         "children": [
           {
-            "id": "0402cc678d9b490b",
+            "id": "0250661e4952dcf7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAP/SAP End-to-End Business Processes/3_Source-to-Pay/4 - Receiving, Goods Movement.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4 - Receiving, Goods Movement"
-            }
-          },
-          {
-            "id": "48426b36329d8a40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flashcards/SAP Raw Info for AI/_Flashcard_3_SourceToPay WIP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_Flashcard_3_SourceToPay WIP"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +179,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "ac4de8cabecf0c87",
+  "active": "0250661e4952dcf7",
   "lastOpenFiles": [
     "SAP/SAP End-to-End Business Processes/3_Source-to-Pay/4 - Receiving, Goods Movement.md",
     "Flashcards/SAP Raw Info for AI/_Flashcard_3_SourceToPay WIP.md",
