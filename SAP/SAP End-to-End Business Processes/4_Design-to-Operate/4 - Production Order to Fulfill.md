@@ -17,7 +17,7 @@ Recall:
 There are **7 parts** in a production order:
 1. **Order Header:** General data
 2. **Settlement Rules:** This is important for the financial step.
-3. **Costs:** Wherein we go back to the *[[1.4.2 - Financial & Management Accounting#Management Accounting|cost object]]*
+3. **Costs:** Wherein we go back to the *[[1.5 - Management Accounting#Management Accounting|cost object]]*
 4. **Operation Sequences:** Define how each operation follows through
 5. **Operations:** The main "meat" of the production order. Operations include *work centers*, *control keys*, *quantities*, *dates*, and standard *default values*.
 6. **Material Components:** Each material component has an *item category*, *material number*, *quantity*, and *date*.

@@ -1,1 +1,0 @@
-$$d(\mathbf{x}, \mathbf{y}) = \sum^{n}_{k = 1} |x_k - y_k|$$

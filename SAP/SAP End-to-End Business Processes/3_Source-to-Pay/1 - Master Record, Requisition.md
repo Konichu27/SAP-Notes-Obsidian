@@ -9,11 +9,11 @@
 	- **Industry Sector**
 	- **References** (ex. engineering data for plant, purchasing data for plant/storage location)
 ### Types of Materials
-| **Type** | **German**       | **English**         |
-| -------- | ---------------- | ------------------- |
-| **FERT** | Fertiges Produkt | Finished Product    |
-| **ROH**  | Rohstoff         | Raw Material        |
-| **HALB** | Halbfertigwaren  | Semi-Finished Goods |
+| **Type** | **English**         | **German**       |
+| -------- | ------------------- | ---------------- |
+| **FERT** | Finished Product    | Fertiges Produkt |
+| **ROH**  | Raw Material        | Rohstoff         |
+| **HALB** | Semi-Finished Goods | Halbfertigwaren  |
 [SAP Material Types Explained: ROH, HALB, FERT, NLAG & More for Effective Inventory Control | Learn with Yasir](https://yasirbhutta.github.io/sap-education-research/docs/sap-mm/material-types.html)
 ### Steps on Creating a Master Record
 
@@ -52,13 +52,13 @@
 | **Typical Example**     | **L**: We send raw parts; they send back a finished assembly.    | **K**: Buying 100 pens for the Accounting department.    |
 #### Item Categories
 
-| **Item Category** | **German**      | **Name**           | **Description**                                                                                            |
-| ----------------- | --------------- | ------------------ | ---------------------------------------------------------------------------------------------------------- |
-| **(Blank)**       | Standard        | **Normal**         | The default category for standard procurement where you buy a material and receive it into your own stock. |
-| **K**             | Konsignation    | **Consignment**    | You keep the vendor's stock at your site, but you only pay for it once you actually use or "withdraw" it.  |
-| **U**             | Umlagerung      | **Stock Transfer** | Used to move materials from one plant to another within the same company.                                  |
-| **L**             | Lohnbearbeitung | **Subcontracting** | You provide raw components to a vendor, and they send back a finished or semi-finished product.            |
-| **D**             | Dienstleistung  | **Service**        | Used for purchasing labor or tasks (like consulting or repairs) rather than physical goods.                |
+| **Item Category** | **Name**           | **German**      | **Description**                                                                                            |
+| ----------------- | ------------------ | --------------- | ---------------------------------------------------------------------------------------------------------- |
+| **(Blank)**       | **Normal**         |                 | The default category for standard procurement where you buy a material and receive it into your own stock. |
+| **K**             | **Consignment**    | Konsignation    | You keep the vendor's stock at your site, but you only pay for it once you actually use or "withdraw" it.  |
+| **U**             | **Stock Transfer** | Umlagerung      | Used to move materials from one plant to another within the same company.                                  |
+| **L**             | **Subcontracting** | Lohnbearbeitung | You provide raw components to a vendor, and they send back a finished or semi-finished product.            |
+| **D**             | **Service**        | Dienstleistung  | Used for purchasing labor or tasks (like consulting or repairs) rather than physical goods.                |
 
 #### Account Assignment Categories
 | **Assignment Category** | **German**        | **Name**        | **Description**                                                                                        |

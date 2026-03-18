@@ -18,6 +18,12 @@ Example of HR view:
 4. Exit payroll
 5. Corrections: Matchcode W
 
+> [!WARNING] NOTE!
+> It's release -> start -> exit payroll, not start -> release -> exit.
+> 
+> It's a bit confusing, but think of the payroll run this way:
+> - **Releasing** a payroll run is basically "finalizing" all the details and releasing it for production use.
+> - Then that's the time you can **start** it
 
 Prerequisites for posting payroll run
 - Check payroll area (Organizational Assessment)

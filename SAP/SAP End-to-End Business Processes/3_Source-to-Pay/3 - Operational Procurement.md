@@ -14,7 +14,7 @@
 	- *Purchasing Info Record* - if exists, price is automatically proposed
 	- *Default Values*
 	- *Supplier*
-		- *Standard Purchase Order* - for external suppliers
+		- *Standard Purchase Order - for external suppliers
 		- *Stock Transport Order* - for internal suppliers (company-owned plants)
 
 ### Document Structure of a Purchase Order
@@ -24,8 +24,7 @@
 > Reference for item categories: [[1 - Master Record, Requisition#Category Assignment]]
 ## Automatic PO Generation
 - Purchase requisitions can be *automated* to be converted to purchase orders, as long as four conditions are met:
-	- **Material Master** - The "Automatic PO" checkbox must be ticked.
-	- **Supplier Master** - The "Automatic PO" checkbox must be ticked.
+	- **"Automatic PO"** - must be <u>checked</u> for *<u>Material Master</u> and <u>Supplier Master</u>
 	- **Source of Supply** - A valid source (like a contract or info record) must be assigned to the requisition.
 	- **No manual intervention** - The system doesn't need extra info (like a missing tax code) to finish the job.
 

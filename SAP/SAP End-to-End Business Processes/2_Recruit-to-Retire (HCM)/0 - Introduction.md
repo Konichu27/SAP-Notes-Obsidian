@@ -15,3 +15,5 @@
 		- Job postings to multiple sites can be automated
 
 ![[Pasted image 20260222144724.png]]
+
+![[Pasted image 20260315185721.png]]
